@@ -14,7 +14,7 @@
 import unittest
 from unittest import mock
 import yieldfrom.boto3
-
+import asyncio
 
 class TestBoto3(unittest.TestCase):
 
